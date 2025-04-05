@@ -1,4 +1,6 @@
-# 🩷 Access · Inclusive Private Transportation
+# 🩷 ACCESS · Inclusive Private Transportation
+
+![ACCESS Logo](./src/main/resources/static/images/access.png)
 
 > 🏆 Winner of the **Mobility Award** with **Ford** at **Next FIAP 2023**
 
