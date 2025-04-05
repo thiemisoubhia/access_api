@@ -63,6 +63,7 @@ This project goes beyond innovation: it’s a call for **dignity**, **equality**
 
 **FIAP Students | Next 2023**  
 In partnership with **Ford Motor Company**
+
 **A special thanks to all the teachers and masters.**
 ---
 
